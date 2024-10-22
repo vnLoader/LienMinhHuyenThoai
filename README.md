@@ -4,7 +4,7 @@
 
 Test tướng Liên minh huyền thoại ngay trên trình duyệt
 
-[Chơi Ngay]([https://vnloader.github.io/LienMinhHuyenThoai/])
+[Chơi Ngay](https://vnloader.github.io/LienMinhHuyenThoai/)
 
 <!-- display screenshot -->
 ![Screenshot](/assets/images/screenshots/Screenshot_1.jpg)
