@@ -29,3 +29,4 @@ Trò chơi này được cung cấp miễn phí và không tạo ra bất kỳ d
 
 File README có sẵn bằng cả [Tiếng Anh](./README-en.md) và [Tiếng Việt](./README.md).
 "# LienMinhHuyenThoai" 
+"# MESSAGE" 
